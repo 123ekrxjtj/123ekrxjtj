@@ -1,4 +1,4 @@
-<h1 align="center">I'm Junhyuk Seo</h1>
+<h1 align="center">About me</h1>
 
 - Incheon National University 재학중
 
